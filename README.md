@@ -20,6 +20,8 @@ This is the blockchain based music streming app, this this is make over EVM(Ethe
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2d84419c-ea2a-4eca-aa61-2e890aef9271/deploy-status)](https://app.netlify.com/sites/tangerine-faloodeh-cf0daa/deploys)
 
+https://62f7f7e057439500080f2b30--tangerine-faloodeh-cf0daa.netlify.app/
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 > Images of the Web Application: 
