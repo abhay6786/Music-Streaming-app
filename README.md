@@ -16,6 +16,12 @@ This is the blockchain based music streming app, this this is make over EVM(Ethe
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+> Demo of the Web Application: 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d84419c-ea2a-4eca-aa61-2e890aef9271/deploy-status)](https://app.netlify.com/sites/tangerine-faloodeh-cf0daa/deploys)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 > Images of the Web Application: 
 
 ![index-photo](https://github.com/abhay6786/Music-Streaming-app/blob/96e2044aa428706b6751aa8c0fea6adfcb827226/Album/Index-photo.png)
