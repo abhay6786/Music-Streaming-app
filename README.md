@@ -19,7 +19,9 @@ This is the blockchain based music streming app, this this is make over EVM(Ethe
 > Images of the Web Application: 
 
 ![index-photo](https://github.com/abhay6786/Music-Streaming-app/blob/96e2044aa428706b6751aa8c0fea6adfcb827226/Album/Index-photo.png)
+
 ![album-photo](https://github.com/abhay6786/Music-Streaming-app/blob/96e2044aa428706b6751aa8c0fea6adfcb827226/Album/album-photo.png)
+
 ![NFT-photo](https://github.com/abhay6786/Music-Streaming-app/blob/96e2044aa428706b6751aa8c0fea6adfcb827226/Album/NFT%20photo.png)
 
 
